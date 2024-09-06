@@ -1,11 +1,3 @@
-//base by DGXeon (Xeon Bot Inc.)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +2347063956321
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-
 require('./settings')
 const pino = require('pino')
 const { Boom } = require('@hapi/boom')
